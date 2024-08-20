@@ -8,16 +8,15 @@
 - 🌱 I’m **currently learning and upskilling myself.**
 
 - 🧰 My analytics toolbox contains **SQL, Python, Power BI, DAX, Power Query & MS Excel.**
+  
+- 💬 Ask me about **SQL, Power BI, MS Excel.**
 
 - 🔗 Connect with me at LinkedIn - [https://www.linkedin.com/in/sshrutijain50/](https://www.linkedin.com/in/sshrutijain50/)
 
 - 🎦 All my projects are available at [https://linktr.ee/Sshrutijain50](https://linktr.ee/Sshrutijain50)
 
-- 💬 Ask me about **SQL, Power BI, MS Excel.**
-
 - 📫 Reach me at Gmail - **Sshrutijain50@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
